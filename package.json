@@ -1,0 +1,28 @@
+{
+  "name": "tailwindtuts",
+  "version": "1.0.0",
+  "description": "first tailwind project",
+  "main": "index.js",
+  "scripts": {
+    "test": "tailwindcss -i ./dist/input.css -o ./dist/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTobiGit/tailwindtuts.git"
+  },
+  "keywords": [
+    "Tailwind",
+    "css",
+    "node",
+    "tailwindcss"
+  ],
+  "author": "TheTobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTobiGit/tailwindtuts/issues"
+  },
+  "homepage": "https://github.com/TheTobiGit/tailwindtuts#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
