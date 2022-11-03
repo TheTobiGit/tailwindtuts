@@ -4,7 +4,7 @@
   "description": "first tailwind project",
   "main": "index.js",
   "scripts": {
-    "test": "tailwindcss -i ./dist/input.css -o ./dist/output.css"
+    "test": "tailwindcss -i ./dist/input.css -o ./dist/output.css --watch"
   },
   "repository": {
     "type": "git",
